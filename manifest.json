@@ -1,8 +1,8 @@
 {
- "versionCode": 11,
- "versionName": "7.0.1-updater",
- "apkUrl": "app-11.apk",
- "apkSha256": "013cb01af4d24d026f2936bf30d3d9416cafb6b8f741cbe9435ec6e1b6368b38",
- "notes": "speaker exec fix and diagnostics",
- "published": "2026-10-01T18:58:12Z"
+ "versionCode": 12,
+ "versionName": "7.1.0-mic",
+ "apkUrl": "app-12.apk",
+ "apkSha256": "112f2346b0604e4e1bce9e20242b2006b7669164a5fe5f44bc3f5d2b86946118",
+ "notes": "microphone hardware test",
+ "published": "2026-10-01T19:09:52Z"
 }
