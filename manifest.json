@@ -1,0 +1,8 @@
+{
+ "versionCode": 11,
+ "versionName": "7.0.1-updater",
+ "apkUrl": "app-11.apk",
+ "apkSha256": "013cb01af4d24d026f2936bf30d3d9416cafb6b8f741cbe9435ec6e1b6368b38",
+ "notes": "speaker exec fix and diagnostics",
+ "published": "2026-10-01T18:58:12Z"
+}
