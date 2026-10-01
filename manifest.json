@@ -1,10 +1,10 @@
 {
- "versionCode": 15,
- "versionName": "8.0.0-voice",
- "apkUrl": "app-15.apk",
- "apkSha256": "062b5e5359019caa02cec0e1df3f53176d61a4663b9cc4936dc01318da1993c7",
- "notes": "voice dictation",
- "published": "2026-10-01T19:37:14Z",
+ "versionCode": 17,
+ "versionName": "8.0.2-voice",
+ "apkUrl": "app-17.apk",
+ "apkSha256": "662d253a4cf6820e3651408606b752c77e652fba00ec1b9dbb1dd2fc27493cb4",
+ "notes": "v17: speaker uses native lib, priv diag fix",
+ "published": "2026-10-01T19:59:49Z",
  "voice": {
   "modelUrl": "https://github.com/chrispayneseo/spotify-lonovo/releases/download/model/vosk-model-small-en-us-0.15.zip",
   "modelSha256": "30f26242c4eb449f948e42cb302dd7a686cb29a3423a8367f99ff41780942498"
