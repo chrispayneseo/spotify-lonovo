@@ -1,8 +1,8 @@
 {
- "versionCode": 12,
- "versionName": "7.1.0-mic",
- "apkUrl": "app-12.apk",
- "apkSha256": "112f2346b0604e4e1bce9e20242b2006b7669164a5fe5f44bc3f5d2b86946118",
- "notes": "microphone hardware test",
- "published": "2026-10-01T19:09:52Z"
+ "versionCode": 13,
+ "versionName": "7.1.1-mic",
+ "apkUrl": "app-13.apk",
+ "apkSha256": "acb323b6c54ae59a5ec5fc72a31394782375ffce5f36ebb2b0ca6720ac786d87",
+ "notes": "record and play mic test",
+ "published": "2026-10-01T19:17:05Z"
 }
